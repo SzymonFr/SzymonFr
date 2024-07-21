@@ -17,11 +17,11 @@ I am especially proficient in the project types listed above, however I am very 
 
 My github account is new, but I had many personal projects outside github - if you want to take a chance on me that would be great.
 ## Conect
-<a href="https://www.linkedin.com/in/szymonfrac/"><img align="left" src="https://github.com/SzymonFrac/Resources/linkedinLogo.png" width="50px"/></a>
 <a href="https://github.com/SzymonFrac">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"/>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/>
-    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="75px"/>
   </picture>
 </a>
+<a href="https://www.linkedin.com/in/szymonfrac/"><img align="left" src="/Resources/linkedinLogo.png" width="75px"/></a>

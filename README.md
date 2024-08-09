@@ -15,7 +15,7 @@ I am always looking for people who are willing to connect, need help or want to 
 
 I am especially proficient in the project types listed above, however I am very adaptable and I constantly learn and find solutions to any problem.
 
-My github account is new, but I had many personal projects outside github - if you want to take a chance on me that would be great.
+My github account is new, but I had many personal projects outside github - if you want to connect that would be great.
 ## Conect
 <a href="https://github.com/SzymonFrac">
   <picture>
